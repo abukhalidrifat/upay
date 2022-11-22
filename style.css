@@ -60,12 +60,12 @@
 
 .card {
   position: relative;
-  width: 162px;
-  height: 252px;
+  width: 182px;
+  height: 268px;
 }
 .card_front {
-  width: 160px;
-  height: 250px;
+  width: 180px;
+  height: 265px;
   background-color: #1864ae;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -106,8 +106,8 @@
   position: absolute;
   top: 0;
   left: -2px;
-  height: 250px;
-  width: 170px;
+  height: 265px;
+  width: 190px;
   z-index: -1;
   border-radius: 10px;
   -webkit-border-radius: 10px;
